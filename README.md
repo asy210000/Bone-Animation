@@ -29,8 +29,8 @@ This project implements a bone animation system using transformations and Jacobi
 - Call `update(float delta_time)` in the game loop to update the bone positions.
 - Use `reset()` to return bones to their default state.
 
-### Adjusting Video Path (If Necessary)
-- If you are using visualization, ensure any video paths or graphical output methods are correctly set up according to your environment.
+## Demo Video
+![Demo Video](demo.flv)
 
 ## File Structure
 ```
